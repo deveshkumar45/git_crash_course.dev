@@ -9,8 +9,3 @@ function newNUm(a,b) {
 function isAbouve(){
     return isAbouve>+18
 }
-
-function newFun() {
-    console.log("Hey I am new Fn");
-    
-}
