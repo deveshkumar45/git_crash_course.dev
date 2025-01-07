@@ -4,4 +4,8 @@ const DOB = '14-08-2006'
 
 function newNUm(a,b) {
     return a+b
-}console.lo(newNUm(4,5));
+}console.log(newNUm(4,5));
+
+function isAbouve(){
+    return isAbouve>+18
+}
