@@ -9,3 +9,4 @@ function newNUm(a,b) {
 function isAbouve(){
     return isAbouve>+18
 }
+
