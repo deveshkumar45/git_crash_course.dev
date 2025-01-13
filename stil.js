@@ -17,3 +17,9 @@ for (let index = 0; index <myArry.length; index++) {
   console.log(element);
   
 }
+let meArry = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+for (let index = 0; index <meArry.length; index++) {
+  const element = meArry[index];
+  console.log(element);
+  
+}
