@@ -29,3 +29,5 @@ for (let index = 0; index < devArray.length; index++) {
   const element = devArray[index];
   console.log(element);
 }
+
+console.log("hello dear fellow students !")
