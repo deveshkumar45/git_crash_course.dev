@@ -10,4 +10,11 @@ function newNUm(a,b) {
 function isAbouve(){
     return isAbouve>+18
 }
+function newNUm(c,d) {
+    return c+d
+}console.log(newNUm(4,5));
+
+function isAbouve(){
+    return isAbouve>+19
+}
 
