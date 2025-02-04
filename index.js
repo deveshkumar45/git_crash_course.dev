@@ -18,3 +18,7 @@ function isAbouve(){
     return isAbouve>+19
 }
 
+
+
+console.log("hello javascript learner !");
+
